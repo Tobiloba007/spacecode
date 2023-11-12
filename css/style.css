@@ -1812,8 +1812,9 @@ select:focus {
     width: 95%;
     height: 25rem;
     /* background: #f6f6f6; */
+    background: #f7dbca;
     padding-top: 60px;
-    /* padding-left: 60px; */
+    padding-left: 60px;
     margin-right: 20;
 }
 .about-image-box:before{
@@ -1830,6 +1831,7 @@ select:focus {
     position: relative;
     display: block;
     z-index: 2;
+    margin-right: 150;
 }
 .about-image-box .inner-box img{
     width: 100%;
