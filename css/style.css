@@ -7317,7 +7317,7 @@ box-shadow: 0px -4px 10px 3px #e8e8e8;
     position: relative;
     display: block;
     background: transparent;
-    margin: -60px 0 -60px;
+    margin: -80px 0 -60px;
     z-index: 100;
 }
 .footer-contact-info{
@@ -13114,7 +13114,7 @@ li .single-footer-contact-info .text p span{
     width: 70%;
   }
   .logo-top{
-    width: 215px;
+    width: 250px;
     height: 50px;
   }
   .contact-hidden{
